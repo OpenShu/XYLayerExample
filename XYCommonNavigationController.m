@@ -10,6 +10,8 @@
 
 @interface XYCommonNavigationController ()
 
+
+
 @end
 
 @implementation XYCommonNavigationController
